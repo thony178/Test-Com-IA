@@ -4,14 +4,12 @@ Este repositório tem como objetivo explorar como a Inteligência Artificial (IA
 
 ## Propósito
 
-- Mostrar como a IA pode ser uma ferramenta poderosa para programadores.
-- Fornecer exemplos práticos de aplicação da IA em diferentes cenários.
+- Fornecer exemplos simples da IA.
 - Ajudar a entender e incorporar a IA no fluxo de trabalho de programação.
 
 ## Estrutura do Repositório
 
-1. **Exemplos**: Código e explicações de como utilizar IA para resolver problemas específicos.
-2. **Testes**: Casos de teste para validar a eficácia e a precisão das soluções propostas com o suporte da IA.
+1. **Testes**: Casos de teste para validar a eficácia e a precisão das soluções propostas com o suporte da IA.
 
 ## Como Contribuir
 
